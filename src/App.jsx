@@ -17,7 +17,7 @@ function App() {
         </a>
       </div>
       <h1>Football Daily 🚀 Automático</h1>
-      <p>Esto es una app para ver los partidos del dia.</p>
+      <p>Esto es una app para ver los partidazos del dia!!!</p>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
