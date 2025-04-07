@@ -1,12 +1,22 @@
-# React + Vite
+# ⚽ Football Daily
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación web construida con React y Vite que muestra los partidos de fútbol que se juegan cada día.
 
-Currently, two official plugins are available:
+🚀 Proyecto en desarrollo para practicar React, consumo de APIs externas, diseño moderno y despliegue web.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Características
 
-## Expanding the ESLint configuration
+- 📅 Lista de partidos diaria
+- 🌍 Filtrado por competiciones y ligas (próximamente)
+- 🔄 Actualización dinámica de resultados (próximamente)
+- 🎨 Estilizado con Tailwind CSS
+- ⚙️ Preparado para consumir API de datos de fútbol
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tecnologías utilizadas
+
+- React
+- Vite
+- Tailwind CSS
+- React Router DOM
+- Axios
+
